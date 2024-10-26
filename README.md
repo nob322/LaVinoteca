@@ -36,12 +36,12 @@ El proyecto LaVinoteca fue desarrollado para el integrador final de programació
 - **Eventos Online**: Suscripción a eventos online.
 - **Formulario de contacto**: Al completar los datos, se puede envíar a un determinado email.
 
-## EBibliotecas necesarias para ejecutarlo
-- **Fo**: Al cl.
-- **Fo**: Al cl.
-- **Fo**: Al cl.
-- **Fo**: Al cl.
-- **Fo**: Al cl.
+## Bibliotecas necesarias para ejecutarlo
+- **Flask y Flask-RESTful**: pip install Flask Flask-RESTful
+- **Flask-CORS (para habilitar solicitudes CORS)**: pip install Flask-Cors
+- **Flask-MySQLdb (interfaz para MySQL)**: pip install Flask-MySQLdb
+- **MySQLdb (Driver MySQL para Python)**: pip install mysqlclient
+- **Todas de un sólo paso**: pip install Flask Flask-RESTful Flask-Cors Flask-MySQLdb mysqlclient
 
 ## Estructura del Proyecto
 ![Imagen del Proyecto](static/img/proyect/estructuraProyecto.png)

@@ -1,7 +1,5 @@
 <!--# Proyecto LaVinoteca -->
-<div class="text-center">
-  <h1>Proyecto LaVinoteca</h1>
-</div>
+<h1 style="text-align: center;">Proyecto LaVinoteca</h1>
 
 ## Descripción
 El proyecto LaVinoteca fue desarrollado para el integrador final de programación 2 de la carrera Tecnicatura Universitaria en Desarrollo Web dictada por la Uneres y es un sito web que permite a los usuarios explorar y visualizar una colección de vinos obtenida de una API interna. La interfaz está diseñada para ser intuitiva y responsiva, permitiendo a los usuarios acceder fácilmente a la información sobre los diferentes vinos y bodegas.

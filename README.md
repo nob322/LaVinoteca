@@ -43,3 +43,6 @@ El proyecto LaVinoteca fue desarrollado para el integrador final de programació
 
 ## Estructura del Proyecto
 ![Imagen del Proyecto](static/img/proyect/estructuraProyecto.png)
+
+## Proyecto deslegado para pruebas 
+- **https://www.**: https://lavinoteca.onrender.com

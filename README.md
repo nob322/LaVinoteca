@@ -12,7 +12,7 @@ El proyecto LaVinoteca fue desarrollado para el integrador final de programació
 ![Imagen del Proyecto](static/img/proyect/5.png)
 ![Imagen del Proyecto](static/img/proyect/6.png)
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas ---> Stack WEB-FM (Stack FMJB+)
 - **HTML5**: Para la estructura básica del sitio web.
 - **CSS3**: Para el diseño y estilo de la aplicación, utilizando Bootstrap para asegurar una experiencia responsiva.
 - **JavaScript**: Para la lógica de la aplicación, incluyendo la manipulación del DOM y la interacción con la API.
@@ -21,14 +21,11 @@ El proyecto LaVinoteca fue desarrollado para el integrador final de programació
 - **Flask**: Backend.
 - **MySql**: Base de datos relacional.
 
-
-
   <img src="https://images.ctfassets.net/e5382hct74si/6Dqa9T8XOOC95yJb0z9jew/ce4932b8d23046f260510e24c1ec39e1/thumbnail.png" width="500" style="height: auto; border-radius: 8px;"><br>
   <img src="https://somospnt.com/images/blog/cover/mysql.jpg" width="500" style="height: auto; border-radius: 8px;"><br>
   <img src="https://mauriciosuarez.com/wp-content/uploads/2024/05/JavaScript2.png" width="500" style="height: auto; border-radius: 8px;"><br>
   <img src="https://localo.com/es/assets/img/definitions/what-is-bootstrap.webp" width="500" style="height: auto; border-radius: 8px;"><br>
   <img src="https://blog.facialix.com/wp-content/uploads/2024/01/curso-gratis-html-css-en-linea.jpg" width="500" style="height: auto; border-radius: 8px;">
-
 
 ## Funcionalidades
 - **Visualización de Vinos**: Los usuarios pueden ver una lista de vinos con detalles básicos, como nombre, tipo, y año, obtenidos de la API.

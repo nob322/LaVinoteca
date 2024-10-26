@@ -45,6 +45,6 @@ El proyecto LaVinoteca fue desarrollado para el integrador final de programació
 ![Imagen del Proyecto](static/img/proyect/estructuraProyecto.png)
 
 ## Proyecto deslegado para pruebas 
-- **Web**: https://www.lavinoteca.onrendercom
-- **Api Rest**: https://www.lavinoteca.onrendercom/api/bodegas
-- **Api Rest**: https://www.lavinoteca.onrendercom./api/vinos
+- **Web**: https://www.lavinoteca.onrender.com
+- **Api Rest**: https://www.lavinoteca.onrender.com/api/bodegas
+- **Api Rest**: https://www.lavinoteca.onrender.com/api/vinos
